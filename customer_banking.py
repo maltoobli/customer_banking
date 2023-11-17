@@ -14,7 +14,7 @@ def main():
     saving_interest_rate = float(input("Enter Saving Account interest rate: "))
     saving_month = int(input("Enter months for saving account: "))
     # Call the create_savings_account function and pass the variables from the user.
-    ##updated_cd_balance, interest_earned =
+   
     updated_savings_balance, interest_earned_savings = create_savings_account(savings_balance, saving_interest_rate, saving_month)
 
     # Print out the interest earned and updated savings account balance with interest earned for the given months.
@@ -27,7 +27,7 @@ def main():
     cd_Account_interest_rate = float(input("Enter CD Account interest rate: "))
     cd_account_month = int(input("Enter months for CD Account: "))
     # Call the create_cd_account function and pass the variables from the user.
-    ##updated_cd_balance, 
+    
     updated_cd_balance, interest_earned = create_cd_account(cd_account_balance, cd_Account_interest_rate, cd_account_month)
 
     # Print out the interest earned and updated CD account balance with interest earned for the given months.
