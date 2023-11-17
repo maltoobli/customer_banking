@@ -10,7 +10,7 @@ This repository contains my third assignment for the bootcamp. It's a Python pro
 ## Folder Structure
 
 - `account.py`: Contains classes and functions for managing account balances and interest calculations
-- `cd_account.py` : Contain fnction to creat CD Account and Calculate interest
-- `savings_account.py`: Contain fnction to creat Saving Account and Calculate interest
+- `cd_account.py` : Contain function to creat CD Account and Calculate interest
+- `savings_account.py`: Contain function to creat Saving Account and Calculate interest
 - `customer_banking.py`: in this file where the process take place and most of the inputs and prints.
 - `README.md`: Documentation file (you're here!)
